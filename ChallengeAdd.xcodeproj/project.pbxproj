@@ -17,6 +17,7 @@
 		E57EF932292471860044660C /* ChallengeAddTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57EF931292471860044660C /* ChallengeAddTests.swift */; };
 		E57EF93C292471860044660C /* ChallengeAddUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57EF93B292471860044660C /* ChallengeAddUITests.swift */; };
 		E57EF93E292471860044660C /* ChallengeAddUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57EF93D292471860044660C /* ChallengeAddUITestsLaunchTests.swift */; };
+		E57EF94B292471BF0044660C /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57EF94A292471BF0044660C /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		E57EF937292471860044660C /* ChallengeAddUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChallengeAddUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E57EF93B292471860044660C /* ChallengeAddUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeAddUITests.swift; sourceTree = "<group>"; };
 		E57EF93D292471860044660C /* ChallengeAddUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeAddUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E57EF94A292471BF0044660C /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				E57EF925292471860044660C /* LaunchScreen.storyboard */,
 				E57EF928292471860044660C /* Info.plist */,
 				E57EF920292471850044660C /* ChallengeAdd.xcdatamodeld */,
+				E57EF94A292471BF0044660C /* ViewController2.swift */,
 			);
 			path = ChallengeAdd;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E57EF94B292471BF0044660C /* ViewController2.swift in Sources */,
 				E57EF91C292471850044660C /* ViewController.swift in Sources */,
 				E57EF922292471850044660C /* ChallengeAdd.xcdatamodeld in Sources */,
 				E57EF918292471850044660C /* AppDelegate.swift in Sources */,
